@@ -18,7 +18,9 @@
 
 ```yaml
 name: Shan Usmani
-location: India
+location: Greater Noida, India
+college: IIT Madras
+role: GSSoC 2026 Contributor
 currently: Building PAOS & Contributing to Open Source
 goal: Launch a SaaS, Complete DSA, Speak Arabic
   
@@ -33,6 +35,11 @@ interests:
   - System Design
   - DSA
   - SaaS Products
+
+stats:
+  gssoc_rank:  "#451 / 43,587"
+  gssoc_score: 6,607
+  merged_prs:  13
 ```
 
 ---
@@ -93,11 +100,47 @@ interests:
 ## 📈 GSSoC Contributions
 
 <p align="center">
-  <img src="https://gssoc-badges.vercel.app/api?username=Shan7Usmani&theme=dark" />
+  <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
+    <img src="https://img.shields.io/badge/Score-6,607-00E7FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEyIDIgMTUgMDkgMjIgOSAxNi41IDE0IDE4IDIyIDEyIDE3IDYgMjIgNy41IDE0IDIgOSA5IDkiLz48L3N2Zz4=" />
+  </a>
+  <img src="https://img.shields.io/badge/Rank-%23451-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-13-1FB6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-5-7C6AF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bounties-5-FFD700?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Shan7Usmani/Shan7Usmani/blob/output/github-contribution-grid-snake.svg" />
+  <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
+    <img src="https://img.shields.io/badge/GSSoC_2026_Contributor-IIT_Madras-%231FB6A6?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+</p>
+
+<details>
+  <summary><b>📋 Latest GSSoC PRs</b></summary>
+  <br>
+
+| PR | Repo | Points | Difficulty |
+|----|------|--------|------------|
+| fix(store): add missing equalityFn parameter | TermUI | 84 | beginner |
+| feat(ci): add large files check workflow | AI-dev-assistant | 107 | intermediate |
+| fix(#1147): Google OAuth token sync race condition | sahidawa-india | 166 | critical |
+| [BUG] Fix #1235: Counterfeit report amplification | sahidawa-india | 175 | critical |
+| feat(mobile): touch-friendly Job Tracker Kanban | career-pilot | 95 | intermediate |
+| feat(ui): add Listbar widget | TermUI | 112 | intermediate |
+| feat: add home navigation to chat interface | sahidawa-india | 100 | beginner |
+| test: table-drive cgroup memory tests | kerno | 105 | advanced |
+
+  <p align="right">
+    <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
+      <b>View all 13 PRs →</b>
+    </a>
+  </p>
+</details>
+
+<br>
+
+<p align="center">
+  <i>Ranked <b>#451</b> out of <b>43,587</b> participants globally</i>
 </p>
 
 ---
@@ -126,5 +169,5 @@ interests:
 </div>
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad."</i>
+  <i>⚡ "Ranked #451 out of 43,587 — and climbing."</i>
 </p>
