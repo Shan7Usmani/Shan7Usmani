@@ -41,11 +41,6 @@ interests:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="<img width="148" height="148" alt="quickdraw-default-39c6aec8ff89" src="https://github.com/user-attachments/assets/e6a291a9-9b72-4053-b64f-553ad27ae94c" />
-  <img src="<img width="148" height="148" alt="pull-shark-default-498c279a747d" src="https://github.com/user-attachments/assets/72ef8ae4-46df-4133-b69d-3873b99de516" />
-</p>
-
-<p align="center">
   <img src="assets/pull-shark.png" width="100" />
   <img src="assets/quickdraw.png" width="100" />
 </p>
