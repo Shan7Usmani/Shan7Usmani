@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Shan+Usmani;GSSoC+Contributor;Full-Stack+Developer;Open+Source+Enthusiast;DSA+%26+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Shan+Usmani;GSSoC+Contributor;Full-Stack+Developer;Open+Source+Enthusiast;DSA+%26+System+Design" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -53,10 +53,6 @@ interests:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan7Usmani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </p>
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shan7Usmani&theme=radical&hide_border=true&background=0D1117" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
@@ -95,7 +91,7 @@ interests:
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
-    <img src="https://img.shields.io/badge/Score-6,607-00E7FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEyIDIgMTUgMDkgMjIgOSAxNi41IDE0IDE4IDIyIDEyIDE3IDYgMjIgNy41IDE0IDIgOSA5IDkiLz48L3N2Zz4=" />
+    <img src="https://img.shields.io/badge/Score-6,607-00E7FF?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Rank-%23451-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PRs%20Merged-13-1FB6A6?style=for-the-badge" />
