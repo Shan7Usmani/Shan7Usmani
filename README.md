@@ -148,7 +148,7 @@ interests:
   <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
     <img src="https://img.shields.io/badge/GSSoC-Profile-FF6F00?style=for-the-badge" />
   </a>
-  <a href="www.linkedin.com/in/shan-u-6b26b7361">
+  <a href="https://www.linkedin.com/in/shan-u-6b26b7361/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
