@@ -41,7 +41,8 @@ interests:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shan7Usmani&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <img src="<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/1a1fec08-d902-4ea2-9ef6-8c3279c14f06" />
+  <img src="<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/c5496995-ec85-4579-8907-96c616fc5e5f" />
 </p>
 
 ---
@@ -138,7 +139,7 @@ interests:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:shan7usmani@gmail.com">
+  <a href="mailto:shanusmani.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Shan7Usmani">
@@ -147,7 +148,7 @@ interests:
   <a href="https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147">
     <img src="https://img.shields.io/badge/GSSoC-Profile-FF6F00?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/shan7usmani/">
+  <a href="www.linkedin.com/in/shan-u-6b26b7361">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
