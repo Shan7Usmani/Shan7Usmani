@@ -22,7 +22,6 @@ location: Greater Noida, India
 college: IIT Madras
 role: GSSoC 2026 Contributor
 currently: Building PAOS & Contributing to Open Source
-goal: Launch a SaaS, Complete DSA, Speak Arabic
   
 languages:
   - TypeScript / JavaScript
@@ -35,11 +34,6 @@ interests:
   - System Design
   - DSA
   - SaaS Products
-
-stats:
-  gssoc_rank:  "#451 / 43,587"
-  gssoc_score: 6,607
-  merged_prs:  13
 ```
 
 ---
