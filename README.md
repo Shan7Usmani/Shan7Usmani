@@ -49,10 +49,6 @@ interests:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shan7Usmani&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan7Usmani&layout=compact&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shan7Usmani&theme=react-dark&hide_border=true&area=true" width="95%" />
