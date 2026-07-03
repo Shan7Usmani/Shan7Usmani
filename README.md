@@ -162,93 +162,19 @@
 
   <div style="font-size:14px;font-weight:600;color:#00E7FF;margin-bottom:16px;letter-spacing:2px">TECH STACK</div>
 
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:8px">
-
-    <!-- Custom SVG gradient badges -->
-    <svg xmlns="http://www.w3.org/2000/svg" width="110" height="28">
-      <rect x="0" y="0" width="110" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="110" height="28" rx="4" fill="url(#g-ts)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">TypeScript</text>
-      <defs><linearGradient id="g-ts" x1="0" y1="0" x2="110" y2="28"><stop offset="0%" stop-color="#3178C6"/><stop offset="100%" stop-color="#00E7FF"/></linearGradient></defs>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="100" height="28">
-      <defs><linearGradient id="g-py" x1="0" y1="0" x2="100" y2="28"><stop offset="0%" stop-color="#3776AB"/><stop offset="100%" stop-color="#FFD43B"/></linearGradient></defs>
-      <rect x="0" y="0" width="100" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="100" height="28" rx="4" fill="url(#g-py)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Python</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="80" height="28">
-      <defs><linearGradient id="g-r" x1="0" y1="0" x2="80" y2="28"><stop offset="0%" stop-color="#61DAFB"/><stop offset="100%" stop-color="#7C6AF7"/></linearGradient></defs>
-      <rect x="0" y="0" width="80" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="80" height="28" rx="4" fill="url(#g-r)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">React</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="28">
-      <defs><linearGradient id="g-n" x1="0" y1="0" x2="85" y2="28"><stop offset="0%" stop-color="#339933"/><stop offset="100%" stop-color="#00E7FF"/></linearGradient></defs>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="url(#g-n)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Node.js</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="70" height="28">
-      <defs><linearGradient id="g-j" x1="0" y1="0" x2="70" y2="28"><stop offset="0%" stop-color="#ED8B00"/><stop offset="100%" stop-color="#FF6F00"/></linearGradient></defs>
-      <rect x="0" y="0" width="70" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="70" height="28" rx="4" fill="url(#g-j)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Java</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="65" height="28">
-      <defs><linearGradient id="g-c" x1="0" y1="0" x2="65" y2="28"><stop offset="0%" stop-color="#00599C"/><stop offset="100%" stop-color="#7C6AF7"/></linearGradient></defs>
-      <rect x="0" y="0" width="65" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="65" height="28" rx="4" fill="url(#g-c)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">C++</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="28">
-      <defs><linearGradient id="g-d" x1="0" y1="0" x2="85" y2="28"><stop offset="0%" stop-color="#2496ED"/><stop offset="100%" stop-color="#7C6AF7"/></linearGradient></defs>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="url(#g-d)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Docker</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="105" height="28">
-      <defs><linearGradient id="g-pg" x1="0" y1="0" x2="105" y2="28"><stop offset="0%" stop-color="#316192"/><stop offset="100%" stop-color="#00E7FF"/></linearGradient></defs>
-      <rect x="0" y="0" width="105" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="105" height="28" rx="4" fill="url(#g-pg)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">PostgreSQL</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="95" height="28">
-      <defs><linearGradient id="g-t" x1="0" y1="0" x2="95" y2="28"><stop offset="0%" stop-color="#38B2AC"/><stop offset="100%" stop-color="#1FB6A6"/></linearGradient></defs>
-      <rect x="0" y="0" width="95" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="95" height="28" rx="4" fill="url(#g-t)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Tailwind</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="110" height="28">
-      <defs><linearGradient id="g-nx" x1="0" y1="0" x2="110" y2="28"><stop offset="0%" stop-color="#000"/><stop offset="100%" stop-color="#333"/></linearGradient></defs>
-      <rect x="0" y="0" width="110" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="110" height="28" rx="4" fill="url(#g-nx)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Next.js</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="85" height="28">
-      <defs><linearGradient id="g-f" x1="0" y1="0" x2="85" y2="28"><stop offset="0%" stop-color="#000"/><stop offset="100%" stop-color="#00E7FF"/></linearGradient></defs>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="85" height="28" rx="4" fill="url(#g-f)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">Fastify</text>
-    </svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="120" height="28">
-      <defs><linearGradient id="g-gh" x1="0" y1="0" x2="120" y2="28"><stop offset="0%" stop-color="#2088FF"/><stop offset="100%" stop-color="#7C6AF7"/></linearGradient></defs>
-      <rect x="0" y="0" width="120" height="28" rx="4" fill="#0d1117"/>
-      <rect x="0" y="0" width="120" height="28" rx="4" fill="url(#g-gh)" opacity="0.9"/>
-      <text x="10" y="18" font-family="Arial" font-size="12" font-weight="600" fill="#fff">GitHub Actions</text>
-    </svg>
-
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:6px">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=0d1117"/>
   </div>
 </div>
 
