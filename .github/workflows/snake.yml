@@ -22,6 +22,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
       - name: Strip snake trail
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           node -e '
             const fs = require("fs");
             for (const f of ["dist/github-snake.svg", "dist/github-snake-dark.svg"]) {
