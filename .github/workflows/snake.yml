@@ -20,6 +20,18 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+      - name: Strip snake trail
+        run: |
+          node -e '
+            const fs = require("fs");
+            for (const f of ["dist/github-snake.svg", "dist/github-snake-dark.svg"]) {
+              let s = fs.readFileSync(f, "utf8");
+              s = s.replace(/<rect class="u u\d"[^>]*>/g, "");
+              s = s.replace(/\.u\{[^}]*\}/g, "");
+              s = s.replace(/@keyframes u\d\{.*?\}\.u\.u\d\{[^}]*\}/g, "");
+              fs.writeFileSync(f, s);
+            }
+          '
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
