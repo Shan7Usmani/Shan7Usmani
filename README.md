@@ -43,6 +43,10 @@ stack:     TypeScript • Python • Java • React • Node
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shan7Usmani&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00E7FF&line=7C6AF7&point=1FB6A6)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shan7Usmani/Shan7Usmani/output/github-snake-dark.svg" alt="Snake eating contributions"/>
+</p>
+
 ## 🧰 GitHub Stats
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Shan7Usmani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
