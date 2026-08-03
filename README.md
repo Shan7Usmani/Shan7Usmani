@@ -77,7 +77,7 @@ stack:     TypeScript • Python • Java • React • Node
 ## 📋 Latest GSSoC PRs
 
 <details>
-<summary><b>Click to expand — 13 PRs merged</b></summary>
+<summary><b>Click to expand — 25 PRs merged</b></summary>
 
 | PR | Repo | Pts | Difficulty |
 |---|---|:---:|:---:|
@@ -88,7 +88,7 @@ stack:     TypeScript • Python • Java • React • Node
 | Kanban touch handles | career-pilot | 95 | 🟠 intermediate |
 | Listbar widget | TermUI | 112 | 🟠 intermediate |
 
-**[View all 13 PRs →](https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147)**
+**[View all 25 PRs →](https://gssoc.girlscript.org/profile/ac85deec-3598-47ef-a9e8-f39ae0af5147)**
 
 </details>
 
