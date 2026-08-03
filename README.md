@@ -28,7 +28,7 @@ stack:     TypeScript • Python • Java • React • Node
 
 | Score | Global Rank | PRs Merged | Projects | Bounties |
 |:---:|:---:|:---:|:---:|:---:|
-| **6,607** | **#451** / 43,587 | **13** | **5** | **5** |
+| **12,755** | **#287** / 43,587 | **25** | **7** | **15** |
 
 <!-- If you have the actual achievement images committed to your repo, point to them with a
      path relative to the repo root, e.g. ./assets/pull-shark.png, not a bare "assets/..." path
