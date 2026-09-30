@@ -19,7 +19,7 @@ name:      Shan Usmani
 location:  Greater Noida, India
 college:   IIT Madras
 role:      GSSoC 2026 Contributor
-currently: Building PAOS
+currently: Opensource Contributor
 status:    ⚡ active
 stack:     TypeScript • Python • Java • React • Node
 ```
