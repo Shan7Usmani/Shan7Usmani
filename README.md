@@ -80,7 +80,7 @@ stack:     TypeScript • Python • Java • React • Node
 | Project | Description | Status |
 |---|---|:---:|
 | 🚀 **[Portfolio](https://github.com/Shan7Usmani/Portfolio)** | Personal portfolio & project showcase — [live](https://portfolio-one-gamma-59.vercel.app) | 🟢 Live |
-| 🛰️ **[AapdaSarthi](https://github.com/Shan7Usmani/AapdaSarthi)** | Flood-response copilot, DecodeSIH 2026 — [live](https://aapda-sarthi-pearl.vercel.app) | 🟢 Live |
+| 💼 **[SaaS](https://github.com/Shan7Usmani/SaaS)** | placementOS — AI placement prep platform — [live](https://placementos-five.vercel.app) | 🟢 Live |
 | 🛡️ **[breach-lab](https://github.com/Shan7Usmani/breach-lab)** | AI website security scanner (OWASP Top-10) — [live](https://breach-lab-iota.vercel.app) | 🟢 Live |
 | 🤖 **[chronicle-ai](https://github.com/Shan7Usmani/chronicle-ai)** | Autonomous AI creator agent — [live](https://chronicle-ai-one.vercel.app) | 🟢 Live |
 | 🔍 **[GSoC-Org-Finder-](https://github.com/Shan7Usmani/GSoC-Org-Finder-)** | Find GSSoC projects by tech stack | 🟪 Contributing |
