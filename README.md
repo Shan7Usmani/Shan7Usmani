@@ -41,17 +41,23 @@ stack:     TypeScript • Python • Java • React • Node
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shan7Usmani&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00E7FF&line=7C6AF7&point=1FB6A6)
+<p align="center">
+  <!-- GitHub-hosted (demolab.com) streak card: total contributions + current/longest streak.
+       Replaced the github-readme-activity-graph instance, which now returns 402 DEPLOYMENT_DISABLED. -->
+  <img src="https://streak-stats.demolab.com?user=Shan7Usmani&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=00E7FF&currStreakLabel=1FB6A6&sideNums=ffffff&currStreakNum=ffffff&dates=888888&sideLabels=c9d1d9" alt="Contribution streak"/>
+</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shan7Usmani/Shan7Usmani/output/github-snake-dark.svg?t=20260803" alt="Snake eating contributions"/>
+  <img src="https://raw.githubusercontent.com/Shan7Usmani/Shan7Usmani/output/github-snake-dark.svg?t=20261010" alt="Snake eating contributions"/>
 </p>
 
 ## 🧰 GitHub Stats
+
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Shan7Usmani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shan7Usmani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
 </p>
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -73,15 +79,17 @@ stack:     TypeScript • Python • Java • React • Node
 
 | Project | Description | Status |
 |---|---|:---:|
-| 🚀 **PAOS** | AI-powered development assistant platform | 🟦 Building |
-| 🎙️ **Late-Meet** | Real-time meeting transcription & analysis | 🟪 Contributing |
-| 🔍 **GSoC-Org-Finder** | Find GSSoC projects by tech stack | 🟪 Contributing |
-| 🏥 **sahidawa-india** | Health platform — counterfeit reports | 🟪 Contributing |
+| 🚀 **[Portfolio](https://github.com/Shan7Usmani/Portfolio)** | Personal portfolio & project showcase — [live](https://portfolio-one-gamma-59.vercel.app) | 🟢 Live |
+| 🛰️ **[AapdaSarthi](https://github.com/Shan7Usmani/AapdaSarthi)** | Flood-response copilot, DecodeSIH 2026 — [live](https://aapda-sarthi-pearl.vercel.app) | 🟢 Live |
+| 🛡️ **[breach-lab](https://github.com/Shan7Usmani/breach-lab)** | AI website security scanner (OWASP Top-10) — [live](https://breach-lab-iota.vercel.app) | 🟢 Live |
+| 🤖 **[chronicle-ai](https://github.com/Shan7Usmani/chronicle-ai)** | Autonomous AI creator agent — [live](https://chronicle-ai-one.vercel.app) | 🟢 Live |
+| 🔍 **[GSoC-Org-Finder-](https://github.com/Shan7Usmani/GSoC-Org-Finder-)** | Find GSSoC projects by tech stack | 🟪 Contributing |
+| 🎙️ **[Late-Meet](https://github.com/Shan7Usmani/Late-Meet)** | Real-time meeting transcription & analysis | 🟪 Contributing |
 
 ## 📋 Latest GSSoC PRs
 
 <details>
-<summary><b>Click to expand — 25 PRs merged</b></summary>
+<summary><b>Click to expand — highlighted PRs (25 merged total)</b></summary>
 
 | PR | Repo | Pts | Difficulty |
 |---|---|:---:|:---:|
@@ -105,4 +113,4 @@ stack:     TypeScript • Python • Java • React • Node
   <a href="https://www.linkedin.com/in/shan-u-6b26b7361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:7C6AF7,100:1FB6A6&height=100&section=footer&text=Ranked%20%23451%20%2F%2043%2C587%20—%20and%20climbing%20⚡&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,50:7C6AF7,100:1FB6A6&height=100&section=footer&text=Ranked%20%23287%20%2F%2043%2C587%20—%20and%20climbing%20⚡&fontSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
